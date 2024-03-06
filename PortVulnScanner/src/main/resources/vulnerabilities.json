@@ -1,0 +1,7 @@
+{
+  "22": "SSH - Possible vulnerabilities include weak encryption algorithms.",
+  "80": "HTTP - Check for insecure HTTP methods enabled.",
+  "443": "HTTPS - Check for outdated TLS versions.",
+  "3306": "MySQL - Ensure strong passwords and secure configurations.",
+  "3389": "RDP - Check for outdated versions and weak authentication settings."
+}
